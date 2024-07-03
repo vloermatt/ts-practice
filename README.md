@@ -1,6 +1,6 @@
 # ts-practice
 
-A broken application for practicing typescript
+A broken application, meant as a short assignment for students, looking to practicing typescript.
 
 run `yarn start` in the root to start nodemon in order to watch & rebuild the project as you go 🏃‍♂️
 
